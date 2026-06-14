@@ -54,14 +54,6 @@ The dataset contains anonymized transaction records with:
 * Scikit-learn
 * Jupyter Notebook
 
-## Screenshots
-
-* Dataset Overview
-* Class Distribution Visualization
-* Correlation Heatmap
-* Confusion Matrix
-* Model Performance Metrics
-
 ## How to Run
 
 ```bash
